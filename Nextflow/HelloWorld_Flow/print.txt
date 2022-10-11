@@ -1,0 +1,7 @@
+N E X T F L O W  ~  version 22.10.0-RC3
+Launching `helloworld_flow.nf` [maniac_baekeland] DSL1 - revision: 54923db1e3
+executor >  local (3)
+[cb/142d74] process > splitLetters       [100%] 1 of 1 ✔
+[b5/ff3dd5] process > convertToUpper (2) [100%] 2 of 2 ✔
+HELLO
+WORLD!
